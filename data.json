@@ -1,0 +1,65 @@
+[
+    {
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/jhankarmahbub.jpg",
+        "id": 1,
+        "name": "Jhankar Mahbub",
+        "message": "Sei product bodda, sei sei",
+        "rate": 4.8
+    },
+    {
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/sumit.jpg",
+        "id": 2,
+        "name": "Sumit Saha",
+        "message": "Sei product bodda, sei sei",
+        "rate": 4.7
+    },
+    {
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/hasin.jpg",
+        "id": 3,
+        "name": "Hasin Hayder",
+        "message": "Sei product bodda, sei sei",
+        "rate": 4.6
+    },
+    {
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/moshiur.jpg",
+        "id": 4,
+        "name": "Moshiur Rahman",
+        "message": "Sei product bodda, sei sei",
+        "rate": 4.8
+    },
+    {
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/anisul.jpg",
+        "id": 5,
+        "name": "Anisul Islam",
+        "rate": 4.9
+    },
+    {
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/anisur.jpg",
+        "id": 6,
+        "name": "Anisur Rahman",
+        "message": "Sei product bodda, sei sei",
+        "rate": 4.7
+    },
+    {
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/sujon.png",
+        "id": 7,
+        "name": "WordPress Development",
+        "message": "Sei product bodda, sei sei",
+        "name": "Md. Sujon",
+        "rate": 4.5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/mosh.jpg",
+        "id": 8,
+        "name": "Mosh Hamedani",
+        "message": "Sei product bodda, sei sei",
+        "rate": 4.7
+    },
+    {
+        "image": "https://raw.githubusercontent.com/kiron0/fakeData-for-lucky-one/main/images/angela.jpg",
+        "id": 9,
+        "name": "Angela Yu",
+        "message": "Sei product bodda, sei sei",
+        "rate": 4.9
+    }
+]
